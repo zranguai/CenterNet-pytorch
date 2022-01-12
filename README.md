@@ -10,7 +10,7 @@
  
  # 权重文件
  + [主干网络预训练权重](https://s3.amazonaws.com/pytorch/models/resnet50-19c8e357.pth)
- + [网络训练号权重](https://github.com/bubbliiiing/centernet-pytorch/releases/download/v1.0/centernet_resnet50_voc.pth)
+ + [网络训练好权重](https://github.com/bubbliiiing/centernet-pytorch/releases/download/v1.0/centernet_resnet50_voc.pth)
  
  ## 参考github
  + [center-pytorch](https://github.com/bubbliiiing/centernet-pytorch)
